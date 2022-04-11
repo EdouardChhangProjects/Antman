@@ -31,4 +31,4 @@ Projet EPITECH réalisé par Edouard CHHANG et Ethan HARY
 Répartition des tâches :
 
 Edouard CHHANG : Recherche d'algorithme, Implémentation de Run-Length-encoding et du décoder Burrows-Willer Transform
-Ethan HARY : Implémentation de l'encodeur Burrows-Willer Transform
+Ethan HARY : Implémentation de l'encodeur Burrows-Willer Transform, Tests in pyhton
