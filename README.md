@@ -1,5 +1,5 @@
 # Antman
-Algorithme de compression de fichiers : Burrows-Willer transform combiné avec le Run-Length-Encoding
+Algorithme de compression de fichiers : Burrows-Willer transform combiné avec le Run-Length-Encoding en C
 
 COMPILATION
 
