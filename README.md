@@ -7,8 +7,8 @@ COMPILATION
 
 USAGE
 
-    ./antman [fichier]
-    ./giantman [fichier]
+    ./ant [fichier]
+    ./giant [fichier]
 
 DESCRIPTION
 
@@ -25,6 +25,14 @@ DETAILS
     qui est réversible avec un seul caractère grâce à des propriétés de l'encodage.
     Il ne compresse pas mais permet de générer des fichiers plus facile à compresser.
     Il est ici combiné au Run-Length-Encoding, qui va compacter les longues suites du même caractère
+
+TESTS
+
+    Script de test python inclus dans le dossier tests/
+    
+    Il compile puis compare les fichiers afin de vérifier leur correspondance
+    
+    Si vous voulez tester plus de fichiers, ajoutez-les dans tests/assets/extra et lancez tests/test.py
 
 Projet EPITECH réalisé par Edouard CHHANG et Ethan HARY
 
